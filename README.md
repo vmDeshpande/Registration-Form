@@ -1,4 +1,17 @@
-# Registration-Form
+# Registration Form
 
-This project was developed as part of the internship application for Bharat Intern. The Registration Form is a web application built using HTML5, CSS, and Node.js with MongoDB as the database. The form provides a simple and user-friendly interface for users to register with the necessary information. The front-end design incorporates modern styling with a navy blue background, clear labels, and larger input fields. The project aims to demonstrate fundamental web development skills and showcases proficiency in creating responsive and visually appealing user interfaces. Feel free to explore the code and use it as a reference for your own web development projects.
+This project is a simple and responsive registration form web application built using HTML5, CSS, Node.js, and MongoDB. The form allows users to register with their username, email, and password. The project demonstrates fundamental web development skills, including HTML/CSS layout, server-side scripting with Node.js, and database interaction with MongoDB.
 
+## Features
+
+- **Responsive Design:** The registration form is designed to be responsive, providing a consistent and user-friendly experience across various devices.
+
+- **Back-end with Node.js:** The server-side logic is implemented using Node.js, handling form submissions and interacting with the MongoDB database.
+
+- **MongoDB Database:** User registration data is stored in a MongoDB database, showcasing basic database integration.
+
+## Usage
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/vmDeshpande/Registration-Form
